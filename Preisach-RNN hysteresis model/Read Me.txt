@@ -1,0 +1,5 @@
+Instructions:
+
+1. Run data_prep to extract, transform data
+2. Run train_RNN_minor_major_loops to train RNN -> warning: this takes 36 hours to train 100 networks under the current settings
+3. Run evaluate_trained_neural_network_and_plot to choose the best network, plot signals and calculate performance and sensitivity analysis. A trained and processed example is provided so that you can run this file.
