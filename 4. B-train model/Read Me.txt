@@ -1,0 +1,2 @@
+Run Model_ELENA_test for a demonstration of the ELENA model implementation.
+Neural Networks folder contains the training scripts of the two ANNs
