@@ -1,6 +1,0 @@
-Temperatures from 15/09/2017 to 11/09/2018
-
-Stop on 28/11 due to winter stop, start in March 22089
-Restart on 4th May 30515
-
-177,000 entries
