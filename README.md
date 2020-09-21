@@ -1,15 +1,20 @@
 # ELENA-B-train-Commissioning
 Files related with the work fulfilled for the PhD degree in ICT
 
-## 1. Measurement model 
+### 1. Measurement model 
+The model infers the average field in the ring magnets based on the measurement of the reference magnet. This involves understanding the behaviour of the ring and reference magnets, electronics, and sensors within the reference magnet. An upgraded measurement model is proposed, as well as a rigorous uncertainty analysis that sheds light on potential improvements to the B-train.
 
-## 2. Metrological Characterization
+### 2. Metrological Characterization
+The behaviour of the measurement system is investigated in different operating conditions. This involves the characterisation of random errors created by the measurement, as well as systematic errors and their calibration with beam measurements.
 
-## 3. Magnetic length measurements
+### 3. Magnetic length measurements
+An experimental search for the optimal position within the ELENA dipole magnet is carried out by investigating the variation of the magnetic length parameter for different sensor positions. A performance comparison analysis between the original and proposed sensor setup is performed to investigate the feasibility of implementing this idea in the ELENA B-train system.
 
-## 4. B-train model
+### 4. B-train model
+Following dynamic measurements of the magnet, an analytical model is proposed which can perform within the 2 units accuracy target.
 
-## 5. Preisach-RNN hysteresis model
+### 5. Preisach-RNN hysteresis model
+A Preisach-Recurrent Neural Network is developed which can model both major and minor loop hysteresis for material science applications.
 
 # Publications
 ## Journal publications
